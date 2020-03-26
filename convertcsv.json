@@ -1,0 +1,191 @@
+[
+ {
+   "district": "Ampara",
+   "latitude": 7.1240286,
+   "longitude": 81.149084,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Anuradhapura",
+   "latitude": 8.3352352,
+   "longitude": 80.3682942,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Badulla",
+   "latitude": 6.993401,
+   "longitude": 81.054977,
+   "cases": 1,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Batticaloa",
+   "latitude": 7.70788,
+   "longitude": 81.701736,
+   "cases": 1,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Colombo",
+   "latitude": 6.927079,
+   "longitude": 79.861244,
+   "cases": 22,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Galle",
+   "latitude": 6.0402,
+   "longitude": 80.220642,
+   "cases": 1,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Gampaha",
+   "latitude": 7.09115,
+   "longitude": 79.999634,
+   "cases": 10,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Hambantota",
+   "latitude": 6.1412789,
+   "longitude": 81.0989819,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Jaffna",
+   "latitude": 9.6699994,
+   "longitude": 80.0109171,
+   "cases": 1,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Kalutara",
+   "latitude": 6.5878321,
+   "longitude": 79.9597504,
+   "cases": 14,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Kandy",
+   "latitude": 7.2945875,
+   "longitude": 80.6082719,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Kegalle",
+   "latitude": 7.2534959,
+   "longitude": 80.3369664,
+   "cases": 1,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Kilinochchi",
+   "latitude": 9.3770193,
+   "longitude": 80.3415849,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Kurunegala",
+   "latitude": 7.4807041,
+   "longitude": 80.3227609,
+   "cases": 1,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Mannar",
+   "latitude": 8.9955907,
+   "longitude": 79.8681162,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Matale",
+   "latitude": 7.4583785,
+   "longitude": 80.6111954,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Matara",
+   "latitude": 5.9520346,
+   "longitude": 80.5332384,
+   "cases": 1,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Monaragala",
+   "latitude": 6.8788518,
+   "longitude": 80.952821,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Mullaitivu",
+   "latitude": 9.2676912,
+   "longitude": 80.810591,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Nuwara Eliya",
+   "latitude": 6.9514085,
+   "longitude": 80.7634374,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Polonnaruwa",
+   "latitude": 7.9341968,
+   "longitude": 80.9781591,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Puttalam",
+   "latitude": 8.0304797,
+   "longitude": 79.7977198,
+   "cases": 9,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Ratnapura",
+   "latitude": 6.7168596,
+   "longitude": 80.3351206,
+   "cases": 3,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Trincomalee",
+   "latitude": 8.5832926,
+   "longitude": 81.1781972,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Vavuniya",
+   "latitude": 8.7520511,
+   "longitude": 80.4505436,
+   "cases": 0,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Quarantine",
+   "latitude": 0,
+   "longitude": 0,
+   "cases": 32,
+   "date": "26/3/2020"
+ },
+ {
+   "district": "Foreigners",
+   "latitude": 0,
+   "longitude": 0,
+   "cases": 3,
+   "date": "26/3/2020"
+ }
+]
