@@ -1,0 +1,34 @@
+[
+ {
+   "age": "0-10",
+   "percentage": 4.9
+ },
+ {
+   "age": "11-20",
+   "percentage": 4.9
+ },
+ {
+   "age": "21-30",
+   "percentage": 16.7
+ },
+ {
+   "age": "31-40",
+   "percentage": 16.7
+ },
+ {
+   "age": "41-50",
+   "percentage": 33.3
+ },
+ {
+   "age": "51-60",
+   "percentage": 15.7
+ },
+ {
+   "age": "61-70",
+   "percentage": 6.9
+ },
+ {
+   "age": "71-80",
+   "percentage": 1
+ }
+]
