@@ -1,14 +1,11 @@
 [
  {
-   "Sri Lankan": "Chinese",
-   "97.3": 0.9
+   "Sri Lankan": 97.3,
  },
  {
-   "Sri Lankan": "Indian",
-   "97.3": 0.9
+   "Indian": 0.9,
  },
  {
-   "Sri Lankan": "French",
-   "97.3": 0.9
+   "Chineese": 0.9,
  }
 ]
