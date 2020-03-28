@@ -121,13 +121,13 @@
  },
    {
    "date": "2020-03-21",
-   "found": 87,
+   "found": 78,
    "dead:0,
    "recovered":1,
  },
    {
    "date": "2020-03-22",
-   "found": 1,
+   "found": 87,
    "dead:0,
    "recovered":1,
  },
