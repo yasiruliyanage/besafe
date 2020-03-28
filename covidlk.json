@@ -1,1 +1,172 @@
-
+[
+ {
+   "date": "2020-03-01",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+  {
+   "date": "2020-03-02",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-03",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-04",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-05",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-06",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-07",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-08",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-09",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-10",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-11",
+   "found": 2,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-12",
+   "found": 4,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-13",
+   "found": 6,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-14",
+   "found": 11,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-15",
+   "found": 19,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-16",
+   "found": 29,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-17",
+   "found": 42,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-18",
+   "found": 53,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-19",
+   "found": 66,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-20",
+   "found": 72,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-21",
+   "found": 87,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-22",
+   "found": 1,
+   "dead:0,
+   "recovered":1,
+ },
+   {
+   "date": "2020-03-23",
+   "found": 97,
+   "dead:0,
+   "recovered":2,
+ },
+   {
+   "date": "2020-03-24",
+   "found": 102,
+   "dead:0,
+   "recovered":2,
+ },
+   {
+   "date": "2020-03-25",
+   "found": 102,
+   "dead:0,
+   "recovered":2,
+ },
+   {
+   "date": "2020-03-26",
+   "found": 106,
+   "dead:0,
+   "recovered":6,
+ },
+   {
+   "date": "2020-03-27",
+   "found": 106,
+   "dead:0,
+   "recovered":7,
+ },
+   {
+   "date": "2020-03-28",
+   "found": 107,
+   "dead:0,
+   "recovered":7,
+ },
+  
+  
+]
